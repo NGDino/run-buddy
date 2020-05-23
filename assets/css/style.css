@@ -246,13 +246,7 @@ font-size: 17px;
 line-height: 1.3;
 }
 
-.text-right img{
-  float: right;
-}
 
-.text-right bio {
-  float: right;
-}
 
 /* again the text goes to far on my code in this box compared to the example.  Issue must be somewhere in a parent element also middle trainer text not next to picture*/
 
